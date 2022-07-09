@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-peliculas",
+  "version": "1.0.0",
+  "description": "Consumo de una API REST de películas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isgb/api-rest-peliculas.git"
+  },
+  "author": "@isgb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isgb/api-rest-peliculas/issues"
+  },
+  "homepage": "https://github.com/isgb/api-rest-peliculas#readme"
+}
